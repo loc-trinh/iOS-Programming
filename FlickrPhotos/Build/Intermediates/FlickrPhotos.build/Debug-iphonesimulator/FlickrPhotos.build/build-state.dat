@@ -2,17 +2,17 @@ TFlickrPhotos
 v6
 r1
 cCheck dependencies
-cProcessPCH /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Intermediates/PrecompiledHeaders/FlickrPhotos-Prefix-dbkkhvmcbwckqmanokkqlwbgxhmj/FlickrPhotos-Prefix.pch.pch FlickrPhotos/FlickrPhotos-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/FlickrPhotos.build/Debug-iphonesimulator/FlickrPhotos.build/Objects-normal/x86_64/FlickrPhotosTVC.o /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/FlickrPhotos/FlickrPhotosTVC.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/FlickrPhotos.build/Debug-iphonesimulator/FlickrPhotos.build/Objects-normal/x86_64/AppDelegate.o /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/FlickrPhotos/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/FlickrPhotos.build/Debug-iphonesimulator/FlickrPhotos.build/Objects-normal/x86_64/ImageViewController.o /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/FlickrPhotos/ImageViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/FlickrPhotos.build/Debug-iphonesimulator/FlickrPhotos.build/Objects-normal/x86_64/FlickrPlacesTVC.o /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/FlickrPhotos/FlickrPlacesTVC.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/FlickrPhotos.build/Debug-iphonesimulator/FlickrPhotos.build/Objects-normal/x86_64/FlickrFetcher.o /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/FlickrPhotos/Flickr\ Fetcher/FlickrFetcher.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/FlickrPhotos.build/Debug-iphonesimulator/FlickrPhotos.build/Objects-normal/x86_64/PhotosFromPlaceTVC.o /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/FlickrPhotos/PhotosFromPlaceTVC.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/FlickrPhotos.build/Debug-iphonesimulator/FlickrPhotos.build/Objects-normal/x86_64/RecentPhotosTVC.o /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/FlickrPhotos/RecentPhotosTVC.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/FlickrPhotos.build/Debug-iphonesimulator/FlickrPhotos.build/Objects-normal/x86_64/TopPlacesFlickrTVC.o /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/FlickrPhotos/TopPlacesFlickrTVC.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/FlickrPhotos.build/Debug-iphonesimulator/FlickrPhotos.build/Objects-normal/x86_64/main.o /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/FlickrPhotos/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app/FlickrPhotos normal x86_64
+cProcessPCH /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Intermediates/PrecompiledHeaders/FlickrPhotos-Prefix-cgvvcpuspoythlcqtugpwouydzlk/FlickrPhotos-Prefix.pch.pch FlickrPhotos/FlickrPhotos-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/FlickrPhotos.build/Debug-iphonesimulator/FlickrPhotos.build/Objects-normal/i386/FlickrPhotosTVC.o /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/FlickrPhotos/FlickrPhotosTVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/FlickrPhotos.build/Debug-iphonesimulator/FlickrPhotos.build/Objects-normal/i386/AppDelegate.o /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/FlickrPhotos/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/FlickrPhotos.build/Debug-iphonesimulator/FlickrPhotos.build/Objects-normal/i386/ImageViewController.o /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/FlickrPhotos/ImageViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/FlickrPhotos.build/Debug-iphonesimulator/FlickrPhotos.build/Objects-normal/i386/FlickrPlacesTVC.o /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/FlickrPhotos/FlickrPlacesTVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/FlickrPhotos.build/Debug-iphonesimulator/FlickrPhotos.build/Objects-normal/i386/FlickrFetcher.o /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/FlickrPhotos/Flickr\ Fetcher/FlickrFetcher.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/FlickrPhotos.build/Debug-iphonesimulator/FlickrPhotos.build/Objects-normal/i386/PhotosFromPlaceTVC.o /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/FlickrPhotos/PhotosFromPlaceTVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/FlickrPhotos.build/Debug-iphonesimulator/FlickrPhotos.build/Objects-normal/i386/RecentPhotosTVC.o /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/FlickrPhotos/RecentPhotosTVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/FlickrPhotos.build/Debug-iphonesimulator/FlickrPhotos.build/Objects-normal/i386/TopPlacesFlickrTVC.o /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/FlickrPhotos/TopPlacesFlickrTVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/FlickrPhotos.build/Debug-iphonesimulator/FlickrPhotos.build/Objects-normal/i386/main.o /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/FlickrPhotos/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app/FlickrPhotos normal i386
 cCpResource FlickrPhotos/Flickr\ Fetcher/FlickrAPIKey.pdf Build/Products/Debug-iphonesimulator/FlickrPhotos.app/FlickrAPIKey.pdf
 cCompileStoryboard /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/FlickrPhotos/Base.lproj/Main_iPad.storyboard
 cCompileStoryboard /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/FlickrPhotos/Base.lproj/Main_iPhone.storyboard
@@ -340,11 +340,11 @@ t1402277284
 s123264
 
 N/Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app
-t1402277287
+t1411198060
 s646
 
 N/Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app.dSYM
-t1402121458
+t1402277287
 s102
 
 N/Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app/Base.lproj/Main_iPad.storyboardc
@@ -360,8 +360,8 @@ t1401936936
 s486722
 
 N/Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app/FlickrPhotos
-t1402277287
-s80140
+t1411198060
+s73380
 
 N/Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app/Info.plist
 t1402121458
@@ -677,7 +677,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies079742234545b941^464356234545b941^---0#1#1#--18"Check dependencies36"F3E362E1-977E-4271-8B74-0182FF82F2CF-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesec6b21eb63cdb941^bb9c2eeb63cdb941^---0#1#1#--18"Check dependencies36"453E4A3A-40A0-4081-B089-AEC804DA4654-
 
 CCompileAssetCatalog /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/FlickrPhotos/Images.xcassets
 s423814256.019350
@@ -1070,18 +1070,18 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy Bu
 b589EFCD2-0D7E-42DD-8C52-5F8EFC39697B
 
 CGenerateDSYMFile /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app.dSYM /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app/FlickrPhotos
-s423970087.720031
-e423970087.794762
+s432890860.836949
+e432890860.933139
 r1
 xGenerateDSYMFile
 x/Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app.dSYM
 x/Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app/FlickrPhotos
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Generate /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app.dSYM142"GenerateDSYMFile Build/Products/Debug-iphonesimulator/FlickrPhotos.app.dSYM Build/Products/Debug-iphonesimulator/FlickrPhotos.app/FlickrPhotos1364b8274545b941^b16fcb274545b941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app.dSYM/0000000000000000^724"GenerateDSYMFile Build/Products/Debug-iphonesimulator/FlickrPhotos.app.dSYM Build/Products/Debug-iphonesimulator/FlickrPhotos.app/FlickrPhotos    cd /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app/FlickrPhotos -o /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app.dSYM36"497D8CA0-B622-432B-AC80-A20EE2D99676-
-b5785AAE0-0F32-4C30-9BEC-505DB966696E
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Generate /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app.dSYM142"GenerateDSYMFile Build/Products/Debug-iphonesimulator/FlickrPhotos.app.dSYM Build/Products/Debug-iphonesimulator/FlickrPhotos.app/FlickrPhotosf04ed6ec63cdb941^1de3eeec63cdb941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app.dSYM/0000000000000000^724"GenerateDSYMFile Build/Products/Debug-iphonesimulator/FlickrPhotos.app.dSYM Build/Products/Debug-iphonesimulator/FlickrPhotos.app/FlickrPhotos    cd /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app/FlickrPhotos -o /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app.dSYM36"CA1CB9E2-6276-4A6C-8D1E-CDA0402E3331-
+bA638DA22-8799-45B1-A448-F16CEA0B6D6C
 
 CLd /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app/FlickrPhotos normal i386
-s423812907.946323
-e423812907.978748
+s432890859.326240
+e432890860.834177
 r1
 xLd
 x/Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app/FlickrPhotos
@@ -1161,8 +1161,8 @@ d/usr/lib/system/libsystem_pthread.dylib
 d/usr/lib/system/libsystem_sandbox.dylib
 d/usr/lib/system/libunc.dylib
 d/usr/lib/system/libunwind.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Link /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app/FlickrPhotos81"Ld Build/Products/Debug-iphonesimulator/FlickrPhotos.app/FlickrPhotos normal i3869f55f22bdf42b941^f38ffa2bdf42b941^---0#0#1#--1505"Ld Build/Products/Debug-iphonesimulator/FlickrPhotos.app/FlickrPhotos normal i386    cd /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator -F/Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator -filelist /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Intermediates/FlickrPhotos.build/Debug-iphonesimulator/FlickrPhotos.build/Objects-normal/i386/FlickrPhotos.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Intermediates/FlickrPhotos.build/Debug-iphonesimulator/FlickrPhotos.build/Objects-normal/i386/FlickrPhotos_dependency_info.dat -o /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app/FlickrPhotos36"D765C930-4850-40E1-BC97-B117FB890653-
-bD7D284B6-058B-42CF-B057-3195E59E4D61
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Link /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app/FlickrPhotos81"Ld Build/Products/Debug-iphonesimulator/FlickrPhotos.app/FlickrPhotos normal i386892654eb63cdb941^c18cd5ec63cdb941^---0#0#1#--1505"Ld Build/Products/Debug-iphonesimulator/FlickrPhotos.app/FlickrPhotos normal i386    cd /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator -F/Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator -filelist /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Intermediates/FlickrPhotos.build/Debug-iphonesimulator/FlickrPhotos.build/Objects-normal/i386/FlickrPhotos.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Intermediates/FlickrPhotos.build/Debug-iphonesimulator/FlickrPhotos.build/Objects-normal/i386/FlickrPhotos_dependency_info.dat -o /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app/FlickrPhotos36"004C4560-E311-4742-936D-5D80424B9F5E-
+bA638DA22-8799-45B1-A448-F16CEA0B6D6C
 
 CLd /Users/loctrinh/Desktop/Programs/iOS/FlickrPhotos/Build/Products/Debug-iphonesimulator/FlickrPhotos.app/FlickrPhotos normal x86_64
 s423970085.935125
