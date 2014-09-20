@@ -1,0 +1,916 @@
+TViewAndGestures
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/PrecompiledHeaders/ViewAndGestures-Prefix-dmwrrlllwmuhzbfbhdlgyrmxileh/ViewAndGestures-Prefix.pch.pch ViewAndGestures/ViewAndGestures-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/ViewController.o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/PlayingCardView.o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/PlayingCardView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/AppDelegate.o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/main.o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/ViewAndGestures normal x86_64
+cCopyStringsFile /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/en.lproj/InfoPlist.strings ViewAndGestures/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/Images.xcassets
+cProcessInfoPlistFile /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/Info.plist /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewAndGestures-Info.plist
+cGenerateDSYMFile /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app.dSYM /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/ViewAndGestures
+cTouch /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000532B7F1E00000000000003B4
+t1395359518
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000532B7F26000000000000019E
+t1395359526
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000532B7F28000000000058E0E0
+t1395359528
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000532B7F2800000000005B82F0
+t1395359528
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000532B7F280000000000446820
+t1395359528
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000532B7F2800000000003599D0
+t1395359528
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000532B7F2800000000002FC3B0
+t1395359528
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000532B7F28000000000004B000
+t1395359528
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000532B7F2A000000000088D8C0
+t1395359530
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000532B7F2A0000000000037680
+t1395359530
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000532B7F2B000000000048F720
+t1395359531
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000532B7F2B000000000013FD70
+t1395359531
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000532B7F2E0000000001F1DE10
+t1395359534
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000532B7F3B00000000002BC360
+t1395359547
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000532B7F400000000000002338
+t1395359552
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000532B7F42000000000008D370
+t1395359554
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000532B7F420000000000392E20
+t1395359554
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c00000000532B7B9F00000000000141F0
+t1395358623
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000532B7F420000000000014A80
+t1395359554
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000532B7F420000000000033BA0
+t1395359554
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000532B7F42000000000001CFB0
+t1395359554
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000532B7F42000000000001B2B0
+t1395359554
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000532B7F4200000000000C9570
+t1395359554
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000532B7F420000000000063280
+t1395359554
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000532B7F420000000000008880
+t1395359554
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000532B7F420000000000015080
+t1395359554
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000532B7F4200000000000230F0
+t1395359554
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000532B7F42000000000000E380
+t1395359554
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000532B7F420000000000089380
+t1395359554
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000532B7F420000000000017320
+t1395359554
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000532B7F420000000000039CD0
+t1395359554
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000532B7F42000000000000B0B0
+t1395359554
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000532B7F420000000000167E80
+t1395359554
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000532B7F4200000000000106A0
+t1395359554
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000532B7F42000000000001CE40
+t1395359554
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000532B7F4200000000000740C0
+t1395359554
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000532B7F42000000000006CA60
+t1395359554
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000532B7F42000000000001BAD0
+t1395359554
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000532B7F420000000000084A20
+t1395359554
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000532B7F460000000000000ADC
+t1395359558
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c00000000532B7F46000000000000514C
+t1395359558
+s20812
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/PrecompiledHeaders/ViewAndGestures-Prefix-cvirrktktxeomidpsthwqzanqzio/ViewAndGestures-Prefix.pch.pch
+t1396214053
+s116284
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/PrecompiledHeaders/ViewAndGestures-Prefix-dmwrrlllwmuhzbfbhdlgyrmxileh/ViewAndGestures-Prefix.pch.pch
+t1398020858
+s123448
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/AppDelegate.o
+t1396214054
+s62432
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/PlayingCardView.o
+t1396219084
+s63856
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/ViewAndGestures.LinkFileList
+c000000005338892300000000000002B4
+t1396214051
+s692
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/ViewController.o
+t1396218694
+s44196
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/main.o
+t1396214053
+s3592
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/AppDelegate.o
+t1398020859
+s68660
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/PlayingCardView.o
+t1398020859
+s66580
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/ViewAndGestures.LinkFileList
+c0000000053541AF900000000000002BC
+t1398020857
+s700
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/ViewController.o
+t1398020859
+s45572
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/main.o
+t1398020859
+s3820
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/assetcatalog_dependencies.txt
+t1398020862
+s448
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/assetcatalog_generated_info.plist
+t1398020862
+s525
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app
+t1398020860
+s306
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app.dSYM
+t1396219084
+s102
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/Base.lproj/Main.storyboardc
+t1398020861
+s170
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/Info.plist
+t1398020862
+s1031
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/PkgInfo
+t1398020862
+s8
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/ViewAndGestures
+t1398020860
+s40844
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/en.lproj/InfoPlist.strings
+t1396214054
+s42
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/AppDelegate.h
+c00000000533883D60000000000000119
+t1396212694
+s281
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/AppDelegate.m
+c00000000533883D600000000000007DB
+t1396212694
+s2011
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/Base.lproj/Main.storyboard
+c00000000533899D50000000000000C96
+t1396218325
+s3222
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/Images.xcassets
+c00000000533899020000000000000242
+t1396218114
+s578
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/PlayingCardView.h
+c0000000053389B460000000000000180
+t1396218694
+s384
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/PlayingCardView.m
+c0000000053541AF90000000000001032
+t1398020857
+s4146
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewAndGestures-Info.plist
+c00000000533883D600000000000004BF
+t1396212694
+s1215
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewAndGestures-Prefix.pch
+c00000000533883D60000000000000158
+t1396212694
+s344
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewController.h
+c00000000533883D600000000000000DB
+t1396212694
+s219
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewController.m
+c0000000053533570000000000000033D
+t1397962096
+s829
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/en.lproj/InfoPlist.strings
+c00000000533883D6000000000000002D
+t1396212694
+s45
+
+N/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/main.m
+c00000000533883D60000000000000155
+t1396212694
+s341
+
+N/usr/lib/libSystem.B.dylib
+c000000005272C902000000000000E6D0
+t1383254274
+s59088
+
+N/usr/lib/system/libcache.dylib
+c000000005272C90E0000000000012A00
+t1383254286
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005272C8F6000000000002E320
+t1383254262
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005272C9020000000000021860
+t1383254274
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c000000005272C90D000000000001B620
+t1383254285
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005272C90D00000000000BD920
+t1383254285
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c00000000532B7B9F00000000000141F0
+t1395358623
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005272C90E000000000000A120
+t1383254286
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c00000000532B7B9F000000000001D550
+t1395358623
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c000000005272C90D0000000000014EE0
+t1383254285
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005272C90F0000000000010380
+t1383254287
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005272C90F000000000000C4C0
+t1383254287
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005272C90E00000000000357A0
+t1383254286
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c000000005272C90E000000000000C070
+t1383254286
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000530299D10000000000168D00
+t1392679377
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000532B7B9F0000000000010630
+t1395358623
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c00000000532B7B9F000000000001DF10
+t1395358623
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005272C9020000000000075B00
+t1383254274
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c00000000530299D0000000000007CCE0
+t1392679376
+s511200
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005272C90200000000000766C0
+t1383254274
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000530299D00000000000044DC0
+t1392679376
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005272C9020000000000021FA0
+t1383254274
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c00000000532B7B9F000000000002D920
+t1395358623
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c000000005272C90E000000000001E570
+t1383254286
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c00000000532B7B9F000000000000CC70
+t1395358623
+s52336
+
+N/usr/lib/system/libunc.dylib
+c000000005272C909000000000000C3F0
+t1383254281
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005272C90E00000000000199F0
+t1383254286
+s104944
+
+CBuild AST from /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/AppDelegate.m
+r0
+
+CBuild AST from /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/PlayingCardView.m
+r0
+
+CBuild AST from /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewController.m
+r0
+
+CBuild AST from /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies309dce795204b941^508be1795204b941^---0#1#1#--18"Check dependencies36"EB1B1389-1B84-4DB7-9AFD-079B8F752CC6-
+
+CCompileAssetCatalog /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/Images.xcassets
+s419713660.573738
+e419713662.749248
+r1
+xCompileAssetCatalog
+x/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app
+x/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/Images.xcassets
+o2014-04-20 12:07:41.827 IBCocoaTouchImageCatalogTool[8446:303] CFPreferences: user home directory at file:///Users/loctrinh/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/LaunchImage-700-568h@2x.png
+o/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/Assets.car
+o/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CompileAssetCatalog Build/Products/Debug-iphonesimulator/ViewAndGestures.app ViewAndGestures/Images.xcassets108"CompileAssetCatalog Build/Products/Debug-iphonesimulator/ViewAndGestures.app ViewAndGestures/Images.xcassets4cfb927c5204b941^1ccfbf7e5204b941^-702"2014-04-20 12:07:41.827 IBCocoaTouchImageCatalogTool[8446:303] CFPreferences: user home directory at file:///Users/loctrinh/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/LaunchImage-700-568h@2x.png/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/Assets.car/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@92"file:///Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/Images.xcassets/0000000000000000^1272"CompileAssetCatalog Build/Products/Debug-iphonesimulator/ViewAndGestures.app ViewAndGestures/Images.xcassets    cd /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/Images.xcassets36"4ABD599E-5AC8-4152-948A-EE5479D6C12B-
+bABC27BBE-AF94-4460-B6EE-1B8786421B03
+
+CCompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/AppDelegate.o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417906853.834912
+e417906854.008973
+r1
+xCompileC
+xBuild/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/AppDelegate.o
+x/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/AppDelegate.m
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/AppDelegate.m226"CompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/AppDelegate.o ViewAndGestures/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler73d8d5a5c0e8b841^384e02a6c0e8b841^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/AppDelegate.m0000000000000000^4074"CompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/AppDelegate.o ViewAndGestures/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/loctrinh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-generated-files.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-own-target-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-all-target-headers.hmap -iquote /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-project-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/DerivedSources/i386 -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/DerivedSources -F/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator -include /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/PrecompiledHeaders/ViewAndGestures-Prefix-cvirrktktxeomidpsthwqzanqzio/ViewAndGestures-Prefix.pch -MMD -MT dependencies -MF /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/AppDelegate.dia -c /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/AppDelegate.m -o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/AppDelegate.o36"9D639930-BC3E-49DF-8E84-67A79E4BE2FB-
+bB00C5708-F66A-4A1D-BF32-C74CA9738BF9
+
+CCompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/PlayingCardView.o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/PlayingCardView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417911883.955044
+e417911884.027828
+r1
+xCompileC
+xBuild/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/PlayingCardView.o
+x/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/PlayingCardView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/PlayingCardView.m
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/PlayingCardView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/PlayingCardView.m234"CompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/PlayingCardView.o ViewAndGestures/PlayingCardView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera394f44bd4e8b841^ff1f074cd4e8b841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/PlayingCardView.m0000000000000000^4098"CompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/PlayingCardView.o ViewAndGestures/PlayingCardView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/loctrinh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-generated-files.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-own-target-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-all-target-headers.hmap -iquote /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-project-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/DerivedSources/i386 -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/DerivedSources -F/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator -include /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/PrecompiledHeaders/ViewAndGestures-Prefix-cvirrktktxeomidpsthwqzanqzio/ViewAndGestures-Prefix.pch -MMD -MT dependencies -MF /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/PlayingCardView.d --serialize-diagnostics /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/PlayingCardView.dia -c /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/PlayingCardView.m -o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/PlayingCardView.o36"B6864C05-1490-456F-942E-F3897BAD2FD4-
+b374968AE-91CA-469A-B241-DFC1064CF6EB
+
+CCompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/ViewController.o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417911494.529446
+e417911494.594614
+r1
+xCompileC
+xBuild/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/ViewController.o
+x/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewController.m
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewController.h
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/PlayingCardView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewController.m232"CompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/ViewController.o ViewAndGestures/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler42ce87c6d2e8b841^ce3998c6d2e8b841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewController.m0000000000000000^4092"CompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/ViewController.o ViewAndGestures/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/loctrinh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-generated-files.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-own-target-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-all-target-headers.hmap -iquote /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-project-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/DerivedSources/i386 -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/DerivedSources -F/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator -include /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/PrecompiledHeaders/ViewAndGestures-Prefix-cvirrktktxeomidpsthwqzanqzio/ViewAndGestures-Prefix.pch -MMD -MT dependencies -MF /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/ViewController.dia -c /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewController.m -o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/ViewController.o36"9EC8E6A4-57C0-47DD-8658-373DD2D7726B-
+b86F98514-087F-4DA4-8D40-C64BA7C3EDD0
+
+CCompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/main.o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417906853.835461
+e417906853.998679
+r1
+xCompileC
+xBuild/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/main.o
+x/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/main.m
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/main.m212"CompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/main.o ViewAndGestures/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler310ad6a5c0e8b841^8fa9ffa5c0e8b841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/main.m0000000000000000^4032"CompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/main.o ViewAndGestures/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/loctrinh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-generated-files.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-own-target-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-all-target-headers.hmap -iquote /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-project-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/DerivedSources/i386 -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/DerivedSources -F/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator -include /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/PrecompiledHeaders/ViewAndGestures-Prefix-cvirrktktxeomidpsthwqzanqzio/ViewAndGestures-Prefix.pch -MMD -MT dependencies -MF /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/main.dia -c /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/main.m -o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/main.o36"64DB540E-1FD5-45A0-A575-849B0E923244-
+bB00C5708-F66A-4A1D-BF32-C74CA9738BF9
+
+CCompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/AppDelegate.o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419713658.865377
+e419713659.368390
+r1
+xCompileC
+xBuild/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/AppDelegate.m
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/AppDelegate.m230"CompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/AppDelegate.o ViewAndGestures/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerdfa8dd7a5204b941^db4f5e7b5204b941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/AppDelegate.m0000000000000000^4088"CompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/AppDelegate.o ViewAndGestures/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/loctrinh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-generated-files.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-own-target-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-all-target-headers.hmap -iquote /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-project-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/DerivedSources/x86_64 -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/DerivedSources -F/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator -include /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/PrecompiledHeaders/ViewAndGestures-Prefix-dmwrrlllwmuhzbfbhdlgyrmxileh/ViewAndGestures-Prefix.pch -MMD -MT dependencies -MF /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/AppDelegate.m -o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/AppDelegate.o36"850E3CAF-B487-4396-9CBE-2F691AE49C26-
+bABC27BBE-AF94-4460-B6EE-1B8786421B03
+
+CCompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/PlayingCardView.o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/PlayingCardView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419713658.865074
+e419713659.354244
+r1
+xCompileC
+xBuild/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/PlayingCardView.o
+x/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/PlayingCardView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/PlayingCardView.m
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/PlayingCardView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/PlayingCardView.m238"CompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/PlayingCardView.o ViewAndGestures/PlayingCardView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler6093dd7a5204b941^10b05a7b5204b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/PlayingCardView.m0000000000000000^4112"CompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/PlayingCardView.o ViewAndGestures/PlayingCardView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/loctrinh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-generated-files.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-own-target-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-all-target-headers.hmap -iquote /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-project-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/DerivedSources/x86_64 -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/DerivedSources -F/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator -include /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/PrecompiledHeaders/ViewAndGestures-Prefix-dmwrrlllwmuhzbfbhdlgyrmxileh/ViewAndGestures-Prefix.pch -MMD -MT dependencies -MF /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/PlayingCardView.d --serialize-diagnostics /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/PlayingCardView.dia -c /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/PlayingCardView.m -o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/PlayingCardView.o36"3858B5BA-EE30-4539-BC9B-09E65A0654C8-
+bABC27BBE-AF94-4460-B6EE-1B8786421B03
+
+CCompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/ViewController.o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419713658.864693
+e419713659.334183
+r1
+xCompileC
+xBuild/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/ViewController.o
+x/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewController.m
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewController.h
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/PlayingCardView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewController.m236"CompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/ViewController.o ViewAndGestures/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler2d78dd7a5204b941^ac8d557b5204b941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewController.m0000000000000000^4106"CompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/ViewController.o ViewAndGestures/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/loctrinh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-generated-files.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-own-target-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-all-target-headers.hmap -iquote /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-project-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/DerivedSources/x86_64 -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/DerivedSources -F/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator -include /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/PrecompiledHeaders/ViewAndGestures-Prefix-dmwrrlllwmuhzbfbhdlgyrmxileh/ViewAndGestures-Prefix.pch -MMD -MT dependencies -MF /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/ViewController.d --serialize-diagnostics /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/ViewController.dia -c /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewController.m -o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/ViewController.o36"A472E411-4556-4662-966D-DF0D71D13AC1-
+bABC27BBE-AF94-4460-B6EE-1B8786421B03
+
+CCompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/main.o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419713658.865980
+e419713659.114692
+r1
+xCompileC
+xBuild/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/main.o
+x/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/main.m
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/main.m216"CompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/main.o ViewAndGestures/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler34dbdd7a5204b941^b85c1d7b5204b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/main.m0000000000000000^4046"CompileC Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/main.o ViewAndGestures/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/loctrinh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-generated-files.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-own-target-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-all-target-headers.hmap -iquote /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-project-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/DerivedSources/x86_64 -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/DerivedSources -F/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator -include /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/PrecompiledHeaders/ViewAndGestures-Prefix-dmwrrlllwmuhzbfbhdlgyrmxileh/ViewAndGestures-Prefix.pch -MMD -MT dependencies -MF /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/main.dia -c /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/main.m -o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/main.o36"2F77C454-4812-4EC3-8750-6C91AFDABB00-
+bABC27BBE-AF94-4460-B6EE-1B8786421B03
+
+CCompileStoryboard /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/Base.lproj/Main.storyboard
+s419713660.571984
+e419713661.719377
+r1
+xCompileStoryboard
+x/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/Base.lproj/Main.storyboard
+o2014-04-20 12:07:41.423 Interface Builder Cocoa Touch Tool[8445:303] CFPreferences: user home directory at file:///Users/loctrinh/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"CompileStoryboard ViewAndGestures/Base.lproj/Main.storyboard60"CompileStoryboard ViewAndGestures/Base.lproj/Main.storyboard228d927c5204b941^5a29b87d5204b941^-232"2014-04-20 12:07:41.423 Interface Builder Cocoa Touch Tool[8445:303] CFPreferences: user home directory at file:///Users/loctrinh/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@102"file:///Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/Base.lproj/Main.storyboard0000000000000000^905"CompileStoryboard ViewAndGestures/Base.lproj/Main.storyboard    cd /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/Base.lproj/Main.storyboardc /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/Base.lproj/Main.storyboard36"129BD32B-9F7A-4ED1-AEFA-5933CFFE2B9B-
+bABC27BBE-AF94-4460-B6EE-1B8786421B03
+
+CCopyStringsFile /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/en.lproj/InfoPlist.strings ViewAndGestures/en.lproj/InfoPlist.strings
+s417906854.282016
+e417906854.286387
+r1
+xCopyStringsFile
+x/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/en.lproj/InfoPlist.strings
+xViewAndGestures/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy ViewAndGestures/en.lproj/InfoPlist.strings142"CopyStringsFile Build/Products/Debug-iphonesimulator/ViewAndGestures.app/en.lproj/InfoPlist.strings ViewAndGestures/en.lproj/InfoPlist.strings1f4a48a6c0e8b841^445049a6c0e8b841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/en.lproj/InfoPlist.strings0000000000000000^653"CopyStringsFile Build/Products/Debug-iphonesimulator/ViewAndGestures.app/en.lproj/InfoPlist.strings ViewAndGestures/en.lproj/InfoPlist.strings    cd /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/en.lproj -- ViewAndGestures/en.lproj/InfoPlist.strings36"B125AAB9-4B3C-4D63-9027-E86C3E445BCF-
+bB00C5708-F66A-4A1D-BF32-C74CA9738BF9
+
+CGenerateDSYMFile /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app.dSYM /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/ViewAndGestures
+s419713662.751715
+e419713662.826771
+r1
+xGenerateDSYMFile
+x/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app.dSYM
+x/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/ViewAndGestures
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Generate /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app.dSYM151"GenerateDSYMFile Build/Products/Debug-iphonesimulator/ViewAndGestures.app.dSYM Build/Products/Debug-iphonesimulator/ViewAndGestures.app/ViewAndGesturesaf7ac07e5204b941^0da8d37e5204b941^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app.dSYM/0000000000000000^751"GenerateDSYMFile Build/Products/Debug-iphonesimulator/ViewAndGestures.app.dSYM Build/Products/Debug-iphonesimulator/ViewAndGestures.app/ViewAndGestures    cd /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/ViewAndGestures -o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app.dSYM36"C6E18A0B-57BD-4EF5-9798-F9CED83A3115-
+bABC27BBE-AF94-4460-B6EE-1B8786421B03
+
+CLd /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/ViewAndGestures normal i386
+s417911884.029539
+e417911884.059958
+r1
+xLd
+x/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/ViewAndGestures
+xnormal
+xi386
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/ViewAndGestures.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/ViewController.o
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/PlayingCardView.o
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/AppDelegate.o
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Link /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/ViewAndGestures87"Ld Build/Products/Debug-iphonesimulator/ViewAndGestures.app/ViewAndGestures normal i386e59d074cd4e8b841^2d7a0f4cd4e8b841^---0#0#1#--1553"Ld Build/Products/Debug-iphonesimulator/ViewAndGestures.app/ViewAndGestures normal i386    cd /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator -F/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator -filelist /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/ViewAndGestures.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/i386/ViewAndGestures_dependency_info.dat -o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/ViewAndGestures36"D72231DC-BC60-46B6-A75E-F5EFFB74087E-
+b374968AE-91CA-469A-B241-DFC1064CF6EB
+
+CLd /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/ViewAndGestures normal x86_64
+s419713659.369159
+e419713660.531972
+r1
+xLd
+x/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/ViewAndGestures
+xnormal
+xx86_64
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/ViewAndGestures.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/ViewController.o
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/PlayingCardView.o
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/AppDelegate.o
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_stats.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Link /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/ViewAndGestures89"Ld Build/Products/Debug-iphonesimulator/ViewAndGestures.app/ViewAndGestures normal x86_6458905e7b5204b941^e82f887c5204b941^---0#0#1#--1561"Ld Build/Products/Debug-iphonesimulator/ViewAndGestures.app/ViewAndGestures normal x86_64    cd /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator -F/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator -filelist /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/ViewAndGestures.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/Objects-normal/x86_64/ViewAndGestures_dependency_info.dat -o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/ViewAndGestures36"AF19679C-0F5E-4413-81D1-D7543B1BF4C2-
+bABC27BBE-AF94-4460-B6EE-1B8786421B03
+
+CProcessInfoPlistFile /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/Info.plist /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewAndGestures-Info.plist
+s419713662.749794
+e419713662.751351
+r1
+xProcessInfoPlistFile
+x/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/Info.plist
+x/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewAndGestures-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Process /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewAndGestures-Info.plist131"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/ViewAndGestures.app/Info.plist ViewAndGestures/ViewAndGestures-Info.plist58ffbf7e5204b941^ef58c07e5204b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewAndGestures-Info.plist0000000000000000^1024"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/ViewAndGestures.app/Info.plist ViewAndGestures/ViewAndGestures-Info.plist    cd /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewAndGestures-Info.plist -genpkginfo /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/assetcatalog_generated_info.plist -o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app/Info.plist36"A9E899BE-9CCD-44E8-9227-5CE8A60590EE-
+bABC27BBE-AF94-4460-B6EE-1B8786421B03
+
+CProcessPCH /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/PrecompiledHeaders/ViewAndGestures-Prefix-cvirrktktxeomidpsthwqzanqzio/ViewAndGestures-Prefix.pch.pch ViewAndGestures/ViewAndGestures-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417906851.296183
+e417906853.833309
+r1
+xProcessPCH
+x/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/PrecompiledHeaders/ViewAndGestures-Prefix-cvirrktktxeomidpsthwqzanqzio/ViewAndGestures-Prefix.pch.pch
+xViewAndGestures/ViewAndGestures-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewAndGestures-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile ViewAndGestures/ViewAndGestures-Prefix.pch243"ProcessPCH Build/Intermediates/PrecompiledHeaders/ViewAndGestures-Prefix-cvirrktktxeomidpsthwqzanqzio/ViewAndGestures-Prefix.pch.pch ViewAndGestures/ViewAndGestures-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerefff4ba3c0e8b841^2254d5a5c0e8b841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewAndGestures-Prefix.pch0000000000000000^3933"ProcessPCH Build/Intermediates/PrecompiledHeaders/ViewAndGestures-Prefix-cvirrktktxeomidpsthwqzanqzio/ViewAndGestures-Prefix.pch.pch ViewAndGestures/ViewAndGestures-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/loctrinh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-generated-files.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-own-target-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-all-target-headers.hmap -iquote /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-project-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/DerivedSources/i386 -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/DerivedSources -F/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/PrecompiledHeaders/ViewAndGestures-Prefix-cvirrktktxeomidpsthwqzanqzio/ViewAndGestures-Prefix.pch.dia -MMD -MT dependencies -MF /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/PrecompiledHeaders/ViewAndGestures-Prefix-cvirrktktxeomidpsthwqzanqzio/ViewAndGestures-Prefix.pch.d -c /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewAndGestures-Prefix.pch -o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/PrecompiledHeaders/ViewAndGestures-Prefix-cvirrktktxeomidpsthwqzanqzio/ViewAndGestures-Prefix.pch.pch36"38221E71-2510-4D23-84F7-59C26312FD5D-
+bB00C5708-F66A-4A1D-BF32-C74CA9738BF9
+
+CProcessPCH /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/PrecompiledHeaders/ViewAndGestures-Prefix-dmwrrlllwmuhzbfbhdlgyrmxileh/ViewAndGestures-Prefix.pch.pch ViewAndGestures/ViewAndGestures-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419713657.881820
+e419713658.863927
+r1
+xProcessPCH
+x/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/PrecompiledHeaders/ViewAndGestures-Prefix-dmwrrlllwmuhzbfbhdlgyrmxileh/ViewAndGestures-Prefix.pch.pch
+xViewAndGestures/ViewAndGestures-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewAndGestures-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile ViewAndGestures/ViewAndGestures-Prefix.pch245"ProcessPCH Build/Intermediates/PrecompiledHeaders/ViewAndGestures-Prefix-dmwrrlllwmuhzbfbhdlgyrmxileh/ViewAndGestures-Prefix.pch.pch ViewAndGestures/ViewAndGestures-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler49d6e1795204b941^a12bdd7a5204b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewAndGestures-Prefix.pch0000000000000000^3939"ProcessPCH Build/Intermediates/PrecompiledHeaders/ViewAndGestures-Prefix-dmwrrlllwmuhzbfbhdlgyrmxileh/ViewAndGestures-Prefix.pch.pch ViewAndGestures/ViewAndGestures-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/loctrinh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-generated-files.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-own-target-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-all-target-headers.hmap -iquote /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/ViewAndGestures-project-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/DerivedSources/x86_64 -I/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/ViewAndGestures.build/Debug-iphonesimulator/ViewAndGestures.build/DerivedSources -F/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/PrecompiledHeaders/ViewAndGestures-Prefix-dmwrrlllwmuhzbfbhdlgyrmxileh/ViewAndGestures-Prefix.pch.dia -MMD -MT dependencies -MF /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/PrecompiledHeaders/ViewAndGestures-Prefix-dmwrrlllwmuhzbfbhdlgyrmxileh/ViewAndGestures-Prefix.pch.d -c /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/ViewAndGestures/ViewAndGestures-Prefix.pch -o /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Intermediates/PrecompiledHeaders/ViewAndGestures-Prefix-dmwrrlllwmuhzbfbhdlgyrmxileh/ViewAndGestures-Prefix.pch.pch36"80271D5D-C768-4144-9F84-58C967F61E35-
+bABC27BBE-AF94-4460-B6EE-1B8786421B03
+
+CProcessPCH /Users/loctrinh/Library/Developer/Xcode/DerivedData/ViewAndGestures-dwgscqkdngvmqfaujwmlvutjiumr/Index/PrecompiledHeaders/ViewAndGestures-Prefix-bbssgcmqyektyddntcboqlkgksxm_ast/ViewAndGestures-Prefix.pch.pch ViewAndGestures/ViewAndGestures-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/loctrinh/Library/Developer/Xcode/DerivedData/ViewAndGestures-dwgscqkdngvmqfaujwmlvutjiumr/Index/PrecompiledHeaders/ViewAndGestures-Prefix-dqvivigwwvdcujavatlqnrorwpkk_ast/ViewAndGestures-Prefix.pch.pch ViewAndGestures/ViewAndGestures-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app
+s419713662.827293
+e419713662.830619
+r1
+xTouch
+x/Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Touch /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app62"Touch Build/Products/Debug-iphonesimulator/ViewAndGestures.app30d6d37e5204b941^3ca4d47e5204b941^---0#0#1#--450"Touch Build/Products/Debug-iphonesimulator/ViewAndGestures.app    cd /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/loctrinh/Desktop/Programs/iOS/ViewAndGestures/Build/Products/Debug-iphonesimulator/ViewAndGestures.app36"8D67E494-C747-4E52-AC67-432B0B0E0439-
+bABC27BBE-AF94-4460-B6EE-1B8786421B03
+

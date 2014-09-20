@@ -1,0 +1,425 @@
+TImaginarium
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/Imaginarium.app/ResourceRules.plist
+cProcessPCH /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/PrecompiledHeaders/Imaginarium-Prefix-ainuiomvyidxrxaopcgsouagjoxi/Imaginarium-Prefix.pch.pch Imaginarium/Imaginarium-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/ViewController.o /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/AppDelegate.o /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/ImageViewController.o /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/ImageViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/main.o /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/Imaginarium normal armv7
+cCopyStringsFile /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/en.lproj/InfoPlist.strings Imaginarium/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/Images.xcassets
+cProcessInfoPlistFile /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/Info.plist /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/Imaginarium-Info.plist
+cGenerateDSYMFile /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app.dSYM /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/Imaginarium
+cTouch /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium.xcent
+cCodeSign /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c0000000053119F860000000000000132
+t1393663878
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+c00000000532B7F090000000000000094
+t1395359497
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+c00000000532B7F090000000000000096
+t1395359497
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000532B7F09000000000000036B
+t1395359497
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000532B7F09000000000000019E
+t1395359497
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000532B7F0B00000000004D7BC0
+t1395359499
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000532B7F0C0000000000A90C10
+t1395359500
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000532B7F130000000002759920
+t1395359507
+s41261344
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000532B7F460000000000000ADC
+t1395359558
+s2780
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium.xcent
+t1401772907
+s344
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/AppDelegate.o
+t1401772905
+s61776
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/ImageViewController.o
+t1401772905
+s65316
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/Imaginarium.LinkFileList
+c00000000538D5B680000000000000270
+t1401772904
+s624
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/ViewController.o
+t1401772905
+s41452
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/main.o
+t1401772904
+s3820
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/assetcatalog_dependencies.txt
+t1401772907
+s399
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/assetcatalog_generated_info.plist
+t1401772907
+s525
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/PrecompiledHeaders/Imaginarium-Prefix-ainuiomvyidxrxaopcgsouagjoxi/Imaginarium-Prefix.pch.pch
+t1401772904
+s94240
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app
+t1401772907
+s340
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app.dSYM
+t2
+s0
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/Base.lproj/Main.storyboardc
+t1401772907
+s238
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/Imaginarium
+t1401772905
+s59284
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/Info.plist
+t1401772907
+s1293
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/PkgInfo
+t1401772907
+s8
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/ResourceRules.plist
+t1401772904
+s150
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/en.lproj/InfoPlist.strings
+t1401772905
+s42
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/AppDelegate.m
+c00000000538D3FC600000000000007D6
+t1401765830
+s2006
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/Base.lproj/Main.storyboard
+c00000000538D5ADB0000000000002936
+t1401772763
+s10550
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/ImageViewController.m
+c00000000538D5ADB0000000000000A33
+t1401772763
+s2611
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/Images.xcassets
+c00000000538D3FC60000000000000088
+t1401765830
+s136
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/Imaginarium-Info.plist
+c00000000538D3FC600000000000004BF
+t1401765830
+s1215
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/Imaginarium-Prefix.pch
+c00000000538D3FC60000000000000158
+t1401765830
+s344
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/ViewController.m
+c00000000538D455A00000000000002DC
+t1401767258
+s732
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/en.lproj/InfoPlist.strings
+c00000000538D3FC6000000000000002D
+t1401765830
+s45
+
+N/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/main.m
+c00000000538D3FC60000000000000150
+t1401765830
+s336
+
+CBuild AST from /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/AppDelegate.m
+r0
+
+CBuild AST from /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/ImageViewController.m
+r0
+
+CBuild AST from /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/ViewController.m
+r0
+
+CBuild AST from /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies9c6926e8923db941^483435e8923db941^---0#1#1#--18"Check dependencies36"020FF7AB-2E0E-4D11-8C68-61537B57AF30-
+
+CCodeSign /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app
+s423465707.387576
+e423465708.848891
+r1
+xCodeSign
+x/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"CodeSign Build/Products/Debug-iphoneos/Imaginarium.app54"CodeSign Build/Products/Debug-iphoneos/Imaginarium.app314363eb923db941^9351d9ec923db941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/0000000000000000^946"CodeSign Build/Products/Debug-iphoneos/Imaginarium.app    cd /Users/loctrinh/Desktop/Programs/iOS/Imaginarium    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "Loc Trinh"    /usr/local/bin/ldid3.py --force --sign 32FFC63B88A2A4335833B980AE0674D6EF2C1F90 --resource-rules=/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/ResourceRules.plist -gta --entitlements /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium.xcent /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app36"86023727-4B31-48CB-A713-A0EA4ADDCC9B-
+bD086998B-1132-4D1B-8FBC-31FD3BE500B3
+
+CCompileAssetCatalog /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/Images.xcassets
+s423465705.786147
+e423465707.350650
+r1
+xCompileAssetCatalog
+x/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app
+x/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/Images.xcassets
+o2014-06-02 22:21:47.256 IBCocoaTouchImageCatalogTool[2265:303] CFPreferences: user home directory at file:///Users/loctrinh/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/LaunchImage-700-568h@2x.png
+o/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/Assets.car
+o/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"CompileAssetCatalog Build/Products/Debug-iphoneos/Imaginarium.app Imaginarium/Images.xcassets93"CompileAssetCatalog Build/Products/Debug-iphoneos/Imaginarium.app Imaginarium/Images.xcassets6155c9e9923db941^65c459eb923db941^-653"2014-06-02 22:21:47.256 IBCocoaTouchImageCatalogTool[2265:303] CFPreferences: user home directory at file:///Users/loctrinh/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/LaunchImage-700-568h@2x.png/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/Assets.car/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@84"file:///Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/Images.xcassets/0000000000000000^1133"CompileAssetCatalog Build/Products/Debug-iphoneos/Imaginarium.app Imaginarium/Images.xcassets    cd /Users/loctrinh/Desktop/Programs/iOS/Imaginarium    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/Images.xcassets36"465E0F6B-0A96-4B1E-BF82-2877748B741C-
+bD086998B-1132-4D1B-8FBC-31FD3BE500B3
+
+CCompileC Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/AppDelegate.o /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423465704.744915
+e423465705.068956
+r1
+xCompileC
+xBuild/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/AppDelegate.o
+x/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/AppDelegate.m
+d/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/AppDelegate.m209"CompileC Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/AppDelegate.o Imaginarium/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerb8cbbee8923db941^d2a711e9923db941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/AppDelegate.m0000000000000000^3733"CompileC Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/AppDelegate.o Imaginarium/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/loctrinh/Desktop/Programs/iOS/Imaginarium    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/loctrinh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium-generated-files.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium-own-target-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium-all-target-headers.hmap -iquote /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium-project-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/DerivedSources/armv7 -I/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/DerivedSources -F/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos -include /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/PrecompiledHeaders/Imaginarium-Prefix-ainuiomvyidxrxaopcgsouagjoxi/Imaginarium-Prefix.pch -MMD -MT dependencies -MF /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/AppDelegate.dia -c /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/AppDelegate.m -o /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/AppDelegate.o36"410299A7-5589-4A6C-B41D-22CEA0652A8C-
+bD086998B-1132-4D1B-8FBC-31FD3BE500B3
+
+CCompileC Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/ImageViewController.o /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/ImageViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423465704.745376
+e423465705.121529
+r1
+xCompileC
+xBuild/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/ImageViewController.o
+x/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/ImageViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/ImageViewController.m
+d/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/ImageViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/ImageViewController.m225"CompileC Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/ImageViewController.o Imaginarium/ImageViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler13f1bee8923db941^fc1c1fe9923db941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/ImageViewController.m0000000000000000^3781"CompileC Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/ImageViewController.o Imaginarium/ImageViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/loctrinh/Desktop/Programs/iOS/Imaginarium    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/loctrinh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium-generated-files.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium-own-target-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium-all-target-headers.hmap -iquote /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium-project-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/DerivedSources/armv7 -I/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/DerivedSources -F/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos -include /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/PrecompiledHeaders/Imaginarium-Prefix-ainuiomvyidxrxaopcgsouagjoxi/Imaginarium-Prefix.pch -MMD -MT dependencies -MF /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/ImageViewController.d --serialize-diagnostics /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/ImageViewController.dia -c /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/ImageViewController.m -o /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/ImageViewController.o36"EEBE693D-D8B5-42DD-B2B4-881DD24E96BB-
+bD086998B-1132-4D1B-8FBC-31FD3BE500B3
+
+CCompileC Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/ViewController.o /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423465704.744687
+e423465705.068583
+r1
+xCompileC
+xBuild/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/ViewController.o
+x/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/ViewController.m
+d/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/ViewController.h
+d/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/ImageViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/ViewController.m215"CompileC Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/ViewController.o Imaginarium/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerc4b5bee8923db941^9b9111e9923db941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/ViewController.m0000000000000000^3751"CompileC Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/ViewController.o Imaginarium/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/loctrinh/Desktop/Programs/iOS/Imaginarium    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/loctrinh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium-generated-files.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium-own-target-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium-all-target-headers.hmap -iquote /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium-project-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/DerivedSources/armv7 -I/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/DerivedSources -F/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos -include /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/PrecompiledHeaders/Imaginarium-Prefix-ainuiomvyidxrxaopcgsouagjoxi/Imaginarium-Prefix.pch -MMD -MT dependencies -MF /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/ViewController.d --serialize-diagnostics /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/ViewController.dia -c /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/ViewController.m -o /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/ViewController.o36"B81E7FE5-F72E-4839-AD10-965E08B03915-
+bD086998B-1132-4D1B-8FBC-31FD3BE500B3
+
+CCompileC Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/main.o /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423465704.746016
+e423465704.808803
+r1
+xCompileC
+xBuild/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/main.o
+x/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/main.m
+d/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/main.m195"CompileC Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/main.o Imaginarium/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler0e15bfe8923db941^8b1bcfe8923db941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/main.m0000000000000000^3691"CompileC Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/main.o Imaginarium/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/loctrinh/Desktop/Programs/iOS/Imaginarium    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/loctrinh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium-generated-files.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium-own-target-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium-all-target-headers.hmap -iquote /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium-project-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/DerivedSources/armv7 -I/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/DerivedSources -F/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos -include /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/PrecompiledHeaders/Imaginarium-Prefix-ainuiomvyidxrxaopcgsouagjoxi/Imaginarium-Prefix.pch -MMD -MT dependencies -MF /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/main.dia -c /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/main.m -o /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/main.o36"4606097E-6DFD-458B-BC25-051533AD85A3-
+bD086998B-1132-4D1B-8FBC-31FD3BE500B3
+
+CCompileStoryboard /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/Base.lproj/Main.storyboard
+s423465705.785430
+e423465707.296015
+r1
+xCompileStoryboard
+x/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/Base.lproj/Main.storyboard
+o2014-06-02 22:21:46.789 Interface Builder Cocoa Touch Tool[2261:303] CFPreferences: user home directory at file:///Users/loctrinh/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"CompileStoryboard Imaginarium/Base.lproj/Main.storyboard56"CompileStoryboard Imaginarium/Base.lproj/Main.storyboard9127c9e9923db941^8ac94beb923db941^-232"2014-06-02 22:21:46.789 Interface Builder Cocoa Touch Tool[2261:303] CFPreferences: user home directory at file:///Users/loctrinh/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@94"file:///Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/Base.lproj/Main.storyboard0000000000000000^822"CompileStoryboard Imaginarium/Base.lproj/Main.storyboard    cd /Users/loctrinh/Desktop/Programs/iOS/Imaginarium    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/Base.lproj/Main.storyboardc /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/Base.lproj/Main.storyboard36"A81FF270-48FC-421A-8032-93E4211164F5-
+bD086998B-1132-4D1B-8FBC-31FD3BE500B3
+
+CCopyStringsFile /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/en.lproj/InfoPlist.strings Imaginarium/en.lproj/InfoPlist.strings
+s423465705.785258
+e423465705.786346
+r1
+xCopyStringsFile
+x/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/en.lproj/InfoPlist.strings
+xImaginarium/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy Imaginarium/en.lproj/InfoPlist.strings127"CopyStringsFile Build/Products/Debug-iphoneos/Imaginarium.app/en.lproj/InfoPlist.strings Imaginarium/en.lproj/InfoPlist.stringsc218c9e9923db941^c24ec9e9923db941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/en.lproj/InfoPlist.strings0000000000000000^608"CopyStringsFile Build/Products/Debug-iphoneos/Imaginarium.app/en.lproj/InfoPlist.strings Imaginarium/en.lproj/InfoPlist.strings    cd /Users/loctrinh/Desktop/Programs/iOS/Imaginarium    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/en.lproj -- Imaginarium/en.lproj/InfoPlist.strings36"99522B46-8381-40CA-99FD-C0E014E4557A-
+bD086998B-1132-4D1B-8FBC-31FD3BE500B3
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/Imaginarium.app/ResourceRules.plist
+s423465704.208538
+e423465704.227177
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+xBuild/Products/Debug-iphoneos/Imaginarium.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy Build/Products/Debug-iphoneos/Imaginarium.app/ResourceRules.plist198"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/Imaginarium.app/ResourceRules.plistc57035e8923db941^c32a3ae8923db941^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/ResourceRules.plist0034a42adcffdf42^772"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/Imaginarium.app/ResourceRules.plist    cd /Users/loctrinh/Desktop/Programs/iOS/Imaginarium    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app36"D9007418-BE40-4A7A-A886-7C2854624B51-
+bD086998B-1132-4D1B-8FBC-31FD3BE500B3
+
+CGenerateDSYMFile /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app.dSYM /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/Imaginarium
+s423465707.353064
+e423465707.385574
+r1
+xGenerateDSYMFile
+x/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app.dSYM
+x/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/Imaginarium
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Generate /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app.dSYM125"GenerateDSYMFile Build/Products/Debug-iphoneos/Imaginarium.app.dSYM Build/Products/Debug-iphoneos/Imaginarium.app/Imaginarium6e6c5aeb923db941^c4b562eb923db941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app.dSYM0034a42adcffdf42^680"GenerateDSYMFile Build/Products/Debug-iphoneos/Imaginarium.app.dSYM Build/Products/Debug-iphoneos/Imaginarium.app/Imaginarium    cd /Users/loctrinh/Desktop/Programs/iOS/Imaginarium    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/Imaginarium -o /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app.dSYM36"666558C9-0B01-4141-BE23-F305A42DC759-
+bD086998B-1132-4D1B-8FBC-31FD3BE500B3
+
+CLd /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/Imaginarium normal armv7
+s423465705.122230
+e423465705.784519
+r1
+xLd
+x/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/Imaginarium
+xnormal
+xarmv7
+d/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/Imaginarium.LinkFileList
+d/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/ViewController.o
+d/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/AppDelegate.o
+d/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/ImageViewController.o
+d/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Link /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/Imaginarium73"Ld Build/Products/Debug-iphoneos/Imaginarium.app/Imaginarium normal armv7c5571fe9923db941^6bd7c8e9923db941^---0#0#1#--1370"Ld Build/Products/Debug-iphoneos/Imaginarium.app/Imaginarium normal armv7    cd /Users/loctrinh/Desktop/Programs/iOS/Imaginarium    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos -F/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos -filelist /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/Imaginarium.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/Imaginarium_dependency_info.dat -o /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/Imaginarium36"71638DD1-6EC5-4480-B96D-BC701C39B46D-
+bD086998B-1132-4D1B-8FBC-31FD3BE500B3
+
+CProcessInfoPlistFile /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/Info.plist /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/Imaginarium-Info.plist
+s423465707.351155
+e423465707.352701
+r1
+xProcessInfoPlistFile
+x/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/Info.plist
+x/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/Imaginarium-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Process /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/Imaginarium-Info.plist112"ProcessInfoPlistFile Build/Products/Debug-iphoneos/Imaginarium.app/Info.plist Imaginarium/Imaginarium-Info.plistd0f159eb923db941^884b5aeb923db941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/Imaginarium-Info.plist0000000000000000^1060"ProcessInfoPlistFile Build/Products/Debug-iphoneos/Imaginarium.app/Info.plist Imaginarium/Imaginarium-Info.plist    cd /Users/loctrinh/Desktop/Programs/iOS/Imaginarium    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/Imaginarium-Info.plist -genpkginfo /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/ResourceRules.plist -additionalcontentfile /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/assetcatalog_generated_info.plist -o /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app/Info.plist36"29F4DA7B-C2A3-4A5A-96B9-2F0339C9DE70-
+bD086998B-1132-4D1B-8FBC-31FD3BE500B3
+
+CProcessPCH /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/PrecompiledHeaders/Imaginarium-Prefix-ainuiomvyidxrxaopcgsouagjoxi/Imaginarium-Prefix.pch.pch Imaginarium/Imaginarium-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423465704.242574
+e423465704.744145
+r1
+xProcessPCH
+x/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/PrecompiledHeaders/Imaginarium-Prefix-ainuiomvyidxrxaopcgsouagjoxi/Imaginarium-Prefix.pch.pch
+xImaginarium/Imaginarium-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/Imaginarium-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile Imaginarium/Imaginarium-Prefix.pch228"ProcessPCH Build/Intermediates/PrecompiledHeaders/Imaginarium-Prefix-ainuiomvyidxrxaopcgsouagjoxi/Imaginarium-Prefix.pch.pch Imaginarium/Imaginarium-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerba2c3ee8923db941^d080bee8923db941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/Imaginarium-Prefix.pch0000000000000000^3620"ProcessPCH Build/Intermediates/PrecompiledHeaders/Imaginarium-Prefix-ainuiomvyidxrxaopcgsouagjoxi/Imaginarium-Prefix.pch.pch Imaginarium/Imaginarium-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/loctrinh/Desktop/Programs/iOS/Imaginarium    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/loctrinh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium-generated-files.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium-own-target-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium-all-target-headers.hmap -iquote /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium-project-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/DerivedSources/armv7 -I/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/DerivedSources -F/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/PrecompiledHeaders/Imaginarium-Prefix-ainuiomvyidxrxaopcgsouagjoxi/Imaginarium-Prefix.pch.dia -MMD -MT dependencies -MF /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/PrecompiledHeaders/Imaginarium-Prefix-ainuiomvyidxrxaopcgsouagjoxi/Imaginarium-Prefix.pch.d -c /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Imaginarium/Imaginarium-Prefix.pch -o /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/PrecompiledHeaders/Imaginarium-Prefix-ainuiomvyidxrxaopcgsouagjoxi/Imaginarium-Prefix.pch.pch36"2F4793C0-2EB1-41C1-B66B-1AC31AE3971F-
+bD086998B-1132-4D1B-8FBC-31FD3BE500B3
+
+CProcessPCH /Users/loctrinh/Library/Developer/Xcode/DerivedData/Imaginarium-hfvmdluqxasduyccofbmnqdykdse/Index/PrecompiledHeaders/Imaginarium-Prefix-ctfwqpigcoaemeeqybztcbjrkvan_ast/Imaginarium-Prefix.pch.pch Imaginarium/Imaginarium-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium.xcent
+s423465707.386289
+e423465707.387205
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+x/Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection233"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium.xcent233"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium.xcent8df062eb923db941^2d2163eb923db941^---0#0#1#-19%DVTDocumentLocation2@144"file:///Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium.xcent0034a42adcffdf42^802"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium.xcent    cd /Users/loctrinh/Desktop/Programs/iOS/Imaginarium    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Intermediates/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Imaginarium.xcent36"D11D0774-8480-4E39-9AD3-35461A9416DA-
+bD086998B-1132-4D1B-8FBC-31FD3BE500B3
+
+CTouch /Users/loctrinh/Desktop/Programs/iOS/Imaginarium/Build/Products/Debug-iphoneos/Imaginarium.app
+r0
+

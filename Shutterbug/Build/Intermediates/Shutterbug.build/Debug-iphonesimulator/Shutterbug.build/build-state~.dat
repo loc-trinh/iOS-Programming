@@ -1,0 +1,492 @@
+TShutterbug
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/PrecompiledHeaders/Shutterbug-Prefix-aogadaytxuwtdpglmivrancqfnke/Shutterbug-Prefix.pch.pch Shutterbug/Shutterbug-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/JustPostedFlickrPhotosTVC.o /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/JustPostedFlickrPhotosTVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/ViewController.o /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/FlickrPhotosTVC.o /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/FlickrPhotosTVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/AppDelegate.o /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/FlickrFetcher.o /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Flickr\ Fetcher/FlickrFetcher.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/main.o /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/Shutterbug normal i386
+cCompileStoryboard /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Base.lproj/Main_iPad.storyboard
+cCompileStoryboard /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Base.lproj/Main_iPhone.storyboard
+cCopyStringsFile /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/en.lproj/InfoPlist.strings Shutterbug/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Images.xcassets
+cProcessInfoPlistFile /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/Info.plist /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Shutterbug-Info.plist
+cGenerateDSYMFile /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app.dSYM /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/Shutterbug
+cTouch /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000532B7F1E00000000000003B4
+t1395359518
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000532B7F26000000000000019E
+t1395359526
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000532B7F280000000000446820
+t1395359528
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000532B7F2A000000000088D8C0
+t1395359530
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000532B7F2E0000000001F1DE10
+t1395359534
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000532B7F460000000000000ADC
+t1395359558
+s2780
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/PrecompiledHeaders/Shutterbug-Prefix-aogadaytxuwtdpglmivrancqfnke/Shutterbug-Prefix.pch.pch
+t1401845339
+s116028
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/AppDelegate.o
+t1401845340
+s62408
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/FlickrFetcher.o
+t1401845340
+s19148
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/FlickrPhotosTVC.o
+t1401845340
+s48532
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/JustPostedFlickrPhotosTVC.o
+t1401845340
+s43288
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/Shutterbug.LinkFileList
+c00000000538E765900000000000003C4
+t1401845337
+s964
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/ViewController.o
+t1401845340
+s39000
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/main.o
+t1401845340
+s3568
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/assetcatalog_dependencies.txt
+t1401845346
+s413
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/assetcatalog_generated_info.plist
+t1401845346
+s525
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app
+t1401845346
+s306
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app.dSYM
+t2
+s0
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/Base.lproj/Main_iPad.storyboardc
+t1401845343
+s102
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/Base.lproj/Main_iPhone.storyboardc
+t1401845346
+s170
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/Info.plist
+t1401845346
+s1278
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/PkgInfo
+t1401845346
+s8
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/Shutterbug
+t1401845341
+s30232
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/en.lproj/InfoPlist.strings
+t1401845341
+s42
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/AppDelegate.m
+c00000000538E716300000000000007D5
+t1401844067
+s2005
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Base.lproj/Main_iPad.storyboard
+c00000000538E765900000000000002AA
+t1401845337
+s682
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Base.lproj/Main_iPhone.storyboard
+c00000000538E76590000000000000BE7
+t1401845337
+s3047
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Flickr Fetcher/FlickrFetcher.m
+c00000000536AF9BF000000000000111A
+t1399519679
+s4378
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/FlickrPhotosTVC.m
+c00000000538E76590000000000000566
+t1401845337
+s1382
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Images.xcassets
+c00000000538E71630000000000000088
+t1401844067
+s136
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/JustPostedFlickrPhotosTVC.m
+c00000000538E7659000000000000036A
+t1401845337
+s874
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Shutterbug-Info.plist
+c00000000538E7163000000000000062A
+t1401844067
+s1578
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Shutterbug-Prefix.pch
+c00000000538E71630000000000000158
+t1401844067
+s344
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/ViewController.m
+c00000000538E716300000000000001EB
+t1401844067
+s491
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/en.lproj/InfoPlist.strings
+c00000000538E7163000000000000002D
+t1401844067
+s45
+
+N/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/main.m
+c00000000538E7163000000000000014F
+t1401844067
+s335
+
+CBuild AST from /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/AppDelegate.m
+r0
+
+CBuild AST from /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/FlickrPhotosTVC.m
+r0
+
+CBuild AST from /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Flickr\ Fetcher/FlickrFetcher.m
+r0
+
+CBuild AST from /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/JustPostedFlickrPhotosTVC.m
+r0
+
+CBuild AST from /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/ViewController.m
+r0
+
+CBuild AST from /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0fb559d9ad3eb941^89086bd9ad3eb941^---0#1#1#--18"Check dependencies36"373C10C4-F188-415D-938D-9BB1F30C8386-
+
+CCompileAssetCatalog /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Images.xcassets
+s423538141.943333
+e423538146.332706
+r1
+xCompileAssetCatalog
+x/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app
+x/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Images.xcassets
+o2014-06-03 18:29:05.388 IBCocoaTouchImageCatalogTool[3211:303] CFPreferences: user home directory at file:///Users/loctrinh/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/LaunchImage-700-568h@2x.png
+o/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/Assets.car
+o/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Shutterbug.app Shutterbug/Images.xcassets98"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Shutterbug.app Shutterbug/Images.xcassets608ff1ddad3eb941^6b2c55e2ad3eb941^-667"2014-06-03 18:29:05.388 IBCocoaTouchImageCatalogTool[3211:303] CFPreferences: user home directory at file:///Users/loctrinh/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/LaunchImage-700-568h@2x.png/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/Assets.car/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@82"file:///Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Images.xcassets/0000000000000000^1228"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Shutterbug.app Shutterbug/Images.xcassets    cd /Users/loctrinh/Desktop/Programs/iOS/Shutterbug    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --target-device ipad --compress-pngs --compile /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Images.xcassets36"C561AFFB-6153-444E-A953-DF89F48DDABB-
+bF484F88E-1B08-4EAC-87EE-7B706BC535E4
+
+CCompileC Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/AppDelegate.o /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423538140.010284
+e423538140.325458
+r1
+xCompileC
+xBuild/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/AppDelegate.o
+x/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/AppDelegate.m
+d/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/AppDelegate.m211"CompileC Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/AppDelegate.o Shutterbug/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercfbe02dcad3eb941^7d5853dcad3eb941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/AppDelegate.m0000000000000000^3864"CompileC Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/AppDelegate.o Shutterbug/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/loctrinh/Desktop/Programs/iOS/Shutterbug    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/loctrinh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-generated-files.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-own-target-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-all-target-headers.hmap -iquote /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-project-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/DerivedSources/i386 -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/DerivedSources -F/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator -include /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/PrecompiledHeaders/Shutterbug-Prefix-aogadaytxuwtdpglmivrancqfnke/Shutterbug-Prefix.pch -MMD -MT dependencies -MF /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/AppDelegate.dia -c /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/AppDelegate.m -o /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/AppDelegate.o36"AA46D82A-D48B-4058-B69E-88FC4D6E517A-
+bF484F88E-1B08-4EAC-87EE-7B706BC535E4
+
+CCompileC Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/FlickrFetcher.o /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Flickr\ Fetcher/FlickrFetcher.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423538140.323469
+e423538140.369734
+r1
+xCompileC
+xBuild/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/FlickrFetcher.o
+x/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Flickr Fetcher/FlickrFetcher.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Flickr Fetcher/FlickrFetcher.m
+d/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Flickr Fetcher/FlickrFetcher.h
+d/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Flickr Fetcher/FlickrAPIKey.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Flickr Fetcher/FlickrFetcher.m231"CompileC Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/FlickrFetcher.o Shutterbug/Flickr\ Fetcher/FlickrFetcher.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler25e952dcad3eb941^16a75edcad3eb941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Flickr%20Fetcher/FlickrFetcher.m0000000000000000^3908"CompileC Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/FlickrFetcher.o Shutterbug/Flickr\ Fetcher/FlickrFetcher.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/loctrinh/Desktop/Programs/iOS/Shutterbug    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/loctrinh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-generated-files.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-own-target-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-all-target-headers.hmap -iquote /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-project-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/DerivedSources/i386 -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/DerivedSources -F/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator -include /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/PrecompiledHeaders/Shutterbug-Prefix-aogadaytxuwtdpglmivrancqfnke/Shutterbug-Prefix.pch -MMD -MT dependencies -MF /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/FlickrFetcher.d --serialize-diagnostics /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/FlickrFetcher.dia -c /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Flickr\ Fetcher/FlickrFetcher.m -o /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/FlickrFetcher.o36"A73394F6-719A-49F4-B968-D2F6C01107C5-
+bF484F88E-1B08-4EAC-87EE-7B706BC535E4
+
+CCompileC Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/FlickrPhotosTVC.o /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/FlickrPhotosTVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423538140.008924
+e423538140.325229
+r1
+xCompileC
+xBuild/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/FlickrPhotosTVC.o
+x/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/FlickrPhotosTVC.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/FlickrPhotosTVC.m
+d/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/FlickrPhotosTVC.h
+o/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/FlickrPhotosTVC.m:27:2: warning: Potentially incomplete method implementation. [-W#warnings]
+o#warning Potentially incomplete method implementation.
+o ^
+o/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/FlickrPhotosTVC.m:34:2: warning: Incomplete method implementation. [-W#warnings]
+o#warning Incomplete method implementation.
+o ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/FlickrPhotosTVC.m219"CompileC Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/FlickrPhotosTVC.o Shutterbug/FlickrPhotosTVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera16802dcad3eb941^7a5553dcad3eb941^-418"/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/FlickrPhotosTVC.m:27:2: warning: Potentially incomplete method implementation. [-W#warnings]#warning Potentially incomplete method implementation. ^/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/FlickrPhotosTVC.m:34:2: warning: Incomplete method implementation. [-W#warnings]#warning Incomplete method implementation. ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@45"Potentially incomplete method implementation.-423538140#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@83"file:///Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/FlickrPhotosTVC.m0000000000000000^26#1#26#1#441#0#18"#warning Directive--2@33"Incomplete method implementation.-423538140#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@83"file:///Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/FlickrPhotosTVC.m0000000000000000^33#1#33#1#642#0#18"#warning Directive--0#0#1#-19%DVTDocumentLocation4@83"file:///Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/FlickrPhotosTVC.m0000000000000000^3888"CompileC Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/FlickrPhotosTVC.o Shutterbug/FlickrPhotosTVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/loctrinh/Desktop/Programs/iOS/Shutterbug    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/loctrinh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-generated-files.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-own-target-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-all-target-headers.hmap -iquote /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-project-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/DerivedSources/i386 -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/DerivedSources -F/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator -include /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/PrecompiledHeaders/Shutterbug-Prefix-aogadaytxuwtdpglmivrancqfnke/Shutterbug-Prefix.pch -MMD -MT dependencies -MF /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/FlickrPhotosTVC.d --serialize-diagnostics /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/FlickrPhotosTVC.dia -c /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/FlickrPhotosTVC.m -o /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/FlickrPhotosTVC.o36"6B3D193C-43E5-4480-B4A7-42447906086D-
+bF484F88E-1B08-4EAC-87EE-7B706BC535E4
+
+CCompileC Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/JustPostedFlickrPhotosTVC.o /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/JustPostedFlickrPhotosTVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423538140.008282
+e423538140.323882
+r1
+xCompileC
+xBuild/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/JustPostedFlickrPhotosTVC.o
+x/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/JustPostedFlickrPhotosTVC.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/JustPostedFlickrPhotosTVC.m
+d/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/JustPostedFlickrPhotosTVC.h
+d/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/FlickrPhotosTVC.h
+d/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Flickr Fetcher/FlickrFetcher.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/JustPostedFlickrPhotosTVC.m239"CompileC Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/JustPostedFlickrPhotosTVC.o Shutterbug/JustPostedFlickrPhotosTVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb07002dcad3eb941^062e53dcad3eb941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/JustPostedFlickrPhotosTVC.m0000000000000000^3948"CompileC Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/JustPostedFlickrPhotosTVC.o Shutterbug/JustPostedFlickrPhotosTVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/loctrinh/Desktop/Programs/iOS/Shutterbug    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/loctrinh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-generated-files.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-own-target-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-all-target-headers.hmap -iquote /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-project-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/DerivedSources/i386 -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/DerivedSources -F/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator -include /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/PrecompiledHeaders/Shutterbug-Prefix-aogadaytxuwtdpglmivrancqfnke/Shutterbug-Prefix.pch -MMD -MT dependencies -MF /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/JustPostedFlickrPhotosTVC.d --serialize-diagnostics /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/JustPostedFlickrPhotosTVC.dia -c /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/JustPostedFlickrPhotosTVC.m -o /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/JustPostedFlickrPhotosTVC.o36"2F678D5B-2ED7-456B-893E-EEDC97CA8376-
+bF484F88E-1B08-4EAC-87EE-7B706BC535E4
+
+CCompileC Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/ViewController.o /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423538140.008898
+e423538140.323143
+r1
+xCompileC
+xBuild/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/ViewController.o
+x/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/ViewController.m
+d/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/ViewController.m217"CompileC Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/ViewController.o Shutterbug/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5a6502dcad3eb941^e5b952dcad3eb941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/ViewController.m0000000000000000^3882"CompileC Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/ViewController.o Shutterbug/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/loctrinh/Desktop/Programs/iOS/Shutterbug    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/loctrinh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-generated-files.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-own-target-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-all-target-headers.hmap -iquote /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-project-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/DerivedSources/i386 -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/DerivedSources -F/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator -include /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/PrecompiledHeaders/Shutterbug-Prefix-aogadaytxuwtdpglmivrancqfnke/Shutterbug-Prefix.pch -MMD -MT dependencies -MF /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/ViewController.dia -c /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/ViewController.m -o /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/ViewController.o36"480EC26C-4620-4C48-83E3-553E34B34352-
+bF484F88E-1B08-4EAC-87EE-7B706BC535E4
+
+CCompileC Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/main.o /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423538140.324320
+e423538140.358416
+r1
+xCompileC
+xBuild/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/main.o
+x/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/main.m
+d/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/main.m197"CompileC Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/main.o Shutterbug/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc74b53dcad3eb941^8bc15bdcad3eb941^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/main.m0000000000000000^3822"CompileC Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/main.o Shutterbug/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/loctrinh/Desktop/Programs/iOS/Shutterbug    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/loctrinh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-generated-files.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-own-target-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-all-target-headers.hmap -iquote /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-project-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/DerivedSources/i386 -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/DerivedSources -F/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator -include /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/PrecompiledHeaders/Shutterbug-Prefix-aogadaytxuwtdpglmivrancqfnke/Shutterbug-Prefix.pch -MMD -MT dependencies -MF /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/main.dia -c /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/main.m -o /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/main.o36"8A151C00-69DB-48B7-A2A1-1CB6899EF3CB-
+bF484F88E-1B08-4EAC-87EE-7B706BC535E4
+
+CCompileStoryboard /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Base.lproj/Main_iPad.storyboard
+s423538141.942339
+e423538143.460323
+r1
+xCompileStoryboard
+x/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Base.lproj/Main_iPad.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"CompileStoryboard Shutterbug/Base.lproj/Main_iPad.storyboard60"CompileStoryboard Shutterbug/Base.lproj/Main_iPad.storyboardcb4cf1ddad3eb941^95d875dfad3eb941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Base.lproj/Main_iPad.storyboard0000000000000000^890"CompileStoryboard Shutterbug/Base.lproj/Main_iPad.storyboard    cd /Users/loctrinh/Desktop/Programs/iOS/Shutterbug    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/Base.lproj/Main_iPad.storyboardc /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Base.lproj/Main_iPad.storyboard36"D4A22E2D-36C8-446B-9064-02B75E36679C-
+bF484F88E-1B08-4EAC-87EE-7B706BC535E4
+
+CCompileStoryboard /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Base.lproj/Main_iPhone.storyboard
+s423538141.942499
+e423538146.684414
+r1
+xCompileStoryboard
+x/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Base.lproj/Main_iPhone.storyboard
+o2014-06-03 18:29:06.515 Interface Builder Cocoa Touch Tool[3212:303] CFPreferences: user home directory at file:///Users/loctrinh/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.ibtool.document.warnings */
+o/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Base.lproj/Main_iPhone.storyboard:5HG-wI-hbI: warning: Prototype table cells must have reuse identifiers [9]
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"CompileStoryboard Shutterbug/Base.lproj/Main_iPhone.storyboard62"CompileStoryboard Shutterbug/Base.lproj/Main_iPhone.storyboardcd57f1ddad3eb941^4836afe2ad3eb941^-437"2014-06-03 18:29:06.515 Interface Builder Cocoa Touch Tool[3212:303] CFPreferences: user home directory at file:///Users/loctrinh/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.ibtool.document.warnings *//Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Base.lproj/Main_iPhone.storyboard:5HG-wI-hbI: warning: Prototype table cells must have reuse identifiers1(21%IDEActivityLogMessage2@49"Prototype table cells must have reuse identifiers-423538146#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@99"file:///Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Base.lproj/Main_iPhone.storyboard0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--0#0#1#-19%DVTDocumentLocation4@99"file:///Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Base.lproj/Main_iPhone.storyboard0000000000000000^896"CompileStoryboard Shutterbug/Base.lproj/Main_iPhone.storyboard    cd /Users/loctrinh/Desktop/Programs/iOS/Shutterbug    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/Base.lproj/Main_iPhone.storyboardc /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Base.lproj/Main_iPhone.storyboard36"82FA442C-723B-4B8C-8007-B8D43C3D594E-
+bF484F88E-1B08-4EAC-87EE-7B706BC535E4
+
+CCopyStringsFile /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/en.lproj/InfoPlist.strings Shutterbug/en.lproj/InfoPlist.strings
+s423538141.942616
+e423538141.973038
+r1
+xCopyStringsFile
+x/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/en.lproj/InfoPlist.strings
+xShutterbug/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy Shutterbug/en.lproj/InfoPlist.strings132"CopyStringsFile Build/Products/Debug-iphonesimulator/Shutterbug.app/en.lproj/InfoPlist.strings Shutterbug/en.lproj/InfoPlist.stringsc860f1ddad3eb941^871af9ddad3eb941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/en.lproj/InfoPlist.strings0000000000000000^623"CopyStringsFile Build/Products/Debug-iphonesimulator/Shutterbug.app/en.lproj/InfoPlist.strings Shutterbug/en.lproj/InfoPlist.strings    cd /Users/loctrinh/Desktop/Programs/iOS/Shutterbug    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/en.lproj -- Shutterbug/en.lproj/InfoPlist.strings36"C1990AE8-D28E-4581-84E1-36EE2255E258-
+bF484F88E-1B08-4EAC-87EE-7B706BC535E4
+
+CGenerateDSYMFile /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app.dSYM /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/Shutterbug
+s423538146.687355
+e423538146.768813
+r1
+xGenerateDSYMFile
+x/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app.dSYM
+x/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/Shutterbug
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Generate /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app.dSYM136"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Shutterbug.app.dSYM Build/Products/Debug-iphonesimulator/Shutterbug.app/Shutterbug9bffafe2ad3eb941^b7d1c4e2ad3eb941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app.dSYM0034a42adcffdf42^706"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Shutterbug.app.dSYM Build/Products/Debug-iphonesimulator/Shutterbug.app/Shutterbug    cd /Users/loctrinh/Desktop/Programs/iOS/Shutterbug    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/Shutterbug -o /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app.dSYM36"5A995128-F153-4C1B-AE60-FE364AA7FCB3-
+bF484F88E-1B08-4EAC-87EE-7B706BC535E4
+
+CLd /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/Shutterbug normal i386
+s423538140.370538
+e423538141.941574
+r1
+xLd
+x/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/Shutterbug
+xnormal
+xi386
+d/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/Shutterbug.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/JustPostedFlickrPhotosTVC.o
+d/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/ViewController.o
+d/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/FlickrPhotosTVC.o
+d/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/AppDelegate.o
+d/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/FlickrFetcher.o
+d/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Link /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/Shutterbug77"Ld Build/Products/Debug-iphonesimulator/Shutterbug.app/Shutterbug normal i3868ae95edcad3eb941^b70bf1ddad3eb941^---0#0#1#--1473"Ld Build/Products/Debug-iphonesimulator/Shutterbug.app/Shutterbug normal i386    cd /Users/loctrinh/Desktop/Programs/iOS/Shutterbug    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator -F/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator -filelist /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/Shutterbug.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Objects-normal/i386/Shutterbug_dependency_info.dat -o /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/Shutterbug36"502F1308-51A2-4B6F-9496-296D299C8D99-
+bF484F88E-1B08-4EAC-87EE-7B706BC535E4
+
+CProcessInfoPlistFile /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/Info.plist /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Shutterbug-Info.plist
+s423538146.685177
+e423538146.687004
+r1
+xProcessInfoPlistFile
+x/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/Info.plist
+x/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Shutterbug-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Process /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Shutterbug-Info.plist116"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/Shutterbug.app/Info.plist Shutterbug/Shutterbug-Info.plist3674afe2ad3eb941^9ce0afe2ad3eb941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Shutterbug-Info.plist0000000000000000^954"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/Shutterbug.app/Info.plist Shutterbug/Shutterbug-Info.plist    cd /Users/loctrinh/Desktop/Programs/iOS/Shutterbug    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Shutterbug-Info.plist -genpkginfo /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/assetcatalog_generated_info.plist -o /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app/Info.plist36"4C50FBC7-6BCD-4F35-8172-EB028C49EF4D-
+bF484F88E-1B08-4EAC-87EE-7B706BC535E4
+
+CProcessPCH /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/PrecompiledHeaders/Shutterbug-Prefix-aogadaytxuwtdpglmivrancqfnke/Shutterbug-Prefix.pch.pch Shutterbug/Shutterbug-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423538137.418906
+e423538140.007589
+r1
+xProcessPCH
+x/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/PrecompiledHeaders/Shutterbug-Prefix-aogadaytxuwtdpglmivrancqfnke/Shutterbug-Prefix.pch.pch
+xShutterbug/Shutterbug-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Shutterbug-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile Shutterbug/Shutterbug-Prefix.pch223"ProcessPCH Build/Intermediates/PrecompiledHeaders/Shutterbug-Prefix-aogadaytxuwtdpglmivrancqfnke/Shutterbug-Prefix.pch.pch Shutterbug/Shutterbug-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera54f6bd9ad3eb941^9df101dcad3eb941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Shutterbug-Prefix.pch0000000000000000^3728"ProcessPCH Build/Intermediates/PrecompiledHeaders/Shutterbug-Prefix-aogadaytxuwtdpglmivrancqfnke/Shutterbug-Prefix.pch.pch Shutterbug/Shutterbug-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/loctrinh/Desktop/Programs/iOS/Shutterbug    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/loctrinh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-generated-files.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-own-target-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-all-target-headers.hmap -iquote /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/Shutterbug-project-headers.hmap -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/DerivedSources/i386 -I/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/Shutterbug.build/Debug-iphonesimulator/Shutterbug.build/DerivedSources -F/Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/PrecompiledHeaders/Shutterbug-Prefix-aogadaytxuwtdpglmivrancqfnke/Shutterbug-Prefix.pch.dia -MMD -MT dependencies -MF /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/PrecompiledHeaders/Shutterbug-Prefix-aogadaytxuwtdpglmivrancqfnke/Shutterbug-Prefix.pch.d -c /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Shutterbug/Shutterbug-Prefix.pch -o /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/PrecompiledHeaders/Shutterbug-Prefix-aogadaytxuwtdpglmivrancqfnke/Shutterbug-Prefix.pch.pch36"07E17BDA-E553-4783-A722-225DB7C3FE63-
+bF484F88E-1B08-4EAC-87EE-7B706BC535E4
+
+CProcessPCH /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Intermediates/PrecompiledHeaders/Shutterbug-Prefix-hgooezkrwxeqzidmylkrfcuotlmg/Shutterbug-Prefix.pch.pch Shutterbug/Shutterbug-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/loctrinh/Library/Developer/Xcode/DerivedData/Shutterbug-byfzxjtppzuqevarqxhfrzgdxfqi/Index/PrecompiledHeaders/Shutterbug-Prefix-apyzlzdpuyzukccshpgkbiwrrlbt_ast/Shutterbug-Prefix.pch.pch Shutterbug/Shutterbug-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/loctrinh/Library/Developer/Xcode/DerivedData/Shutterbug-byfzxjtppzuqevarqxhfrzgdxfqi/Index/PrecompiledHeaders/Shutterbug-Prefix-ecgbubumfyfxrmazipknlmestjuy_ast/Shutterbug-Prefix.pch.pch Shutterbug/Shutterbug-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/loctrinh/Desktop/Programs/iOS/Shutterbug/Build/Products/Debug-iphonesimulator/Shutterbug.app
+r0
+
